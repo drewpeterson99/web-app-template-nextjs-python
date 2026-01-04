@@ -12,7 +12,7 @@ Use GitHub's "Import repository" feature to create a copy of this repository und
 
 ## Step 2: Initial Repo Setup
 
-Follow instructions in [TEMPLATE_README.md](./TEMPLATE_README.md)
+Follow instructions in [README.md](./README.md)
 
 ## Step 3: Update Project Information
 
