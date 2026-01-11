@@ -4,11 +4,9 @@ This guide helps you customize this template for your new project.
 
 ## Step 1: Create a Copy of the Template Repository
 
-Use GitHub's "Import repository" feature to create a copy of this repository under your own account:
-   - Go to GitHub and click the "+" icon in the top right, then select "Import repository"
-   - Enter the URL of this template repository
-   - Choose a name for your new repository
-   - Note: This process is different from forking, as the new repository will have no link to the original. Also note that you can't fork your own repository in GitHub anyway.
+Use GitHub's "Use this template" feature to create a copy of this repository under your own account:
+   - Alternatively, you can use the "Import repository" feature and simply enter the URL of this template repository
+   - Note that creating a copy is different from forking, as the new repository will have no link to the original (or knowledge of its history)
 
 ## Step 2: Initial Repo Setup
 
