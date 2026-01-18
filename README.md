@@ -1,6 +1,8 @@
 # Full-Stack Application Template
 
 A modern full-stack application template with **Next.js** (frontend) and **FastAPI** (backend).
+Instructions for using the template to create a new project can be found in [NEW_PROJECT_GUIDE.md](./NEW_PROJECT_GUIDE.md).
+Created/organized by [Drew Peterson](https://github.com/drewpeterson99).
 
 ## 🏗️ Architecture
 
@@ -14,7 +16,8 @@ A modern full-stack application template with **Next.js** (frontend) and **FastA
 .
 ├── backend/          # FastAPI backend
 │   ├── api/         # API versioning
-│   ├── routers/     # Route handlers
+│   ├── app/         # business logic that is imported/used by the routers
+│   ├── routers/     # Route handlers/API endpoints
 │   ├── config.py    # Environment configuration
 │   └── main.py      # Application entry point
 ├── frontend/         # Next.js frontend
@@ -159,4 +162,4 @@ Update CORS origins in backend `.env` to match your frontend URL in production.
 
 ## 📝 License
 
-[Drew Peterson - 12/30/2025]
+[Drew Peterson - 2026]
