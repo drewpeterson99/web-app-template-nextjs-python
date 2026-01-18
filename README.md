@@ -1,8 +1,8 @@
-# Full-Stack Application Template
+# Full-Stack Web Application Starter Template
 
-A modern full-stack application template with **Next.js** (frontend) and **FastAPI** (backend).
-Instructions for using the template to create a new project can be found in [NEW_PROJECT_GUIDE.md](./NEW_PROJECT_GUIDE.md).
-Created/organized by [Drew Peterson](https://github.com/drewpeterson99).
+A simple, modern full-stack web application template that uses **Next.js** on the frontend and **Python + FastAPI** on the backend.  
+Instructions on customizing the template for a new project can be found in [NEW_PROJECT_GUIDE.md](./NEW_PROJECT_GUIDE.md).  
+Created/organized by [Drew Peterson](https://github.com/drewpeterson99).  
 
 ## 🏗️ Architecture
 
